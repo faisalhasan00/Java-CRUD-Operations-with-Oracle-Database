@@ -61,6 +61,46 @@ String pswd = "your database password";            // Oracle password
 4 DELETE
 Enter your choice:
 ```
+## OUTPUT
+```http
+==== Choose ====
+1 ADD
+2 DISPLAY
+3 UPDATE
+4 DELETE
+Enter your choice:
+```
+- ### 1 Adding a Product
+```http
+Enter book code: P001  
+Enter your Book Name: Java Basics  
+Enter your book price: 199.99  
+Enter Book Quantity: 10  
+```
+Data inserted successfully...
+
+- ### 2. Viewing All Products
+```http
+PCODE         PNAME             PRICE      QTY  
+=========    ============       ======    =====  
+P001          Java Basics       199.99     10  
+```
+- ### 3. Updating a Product
+
+```http
+Enter product code: P001  
+Enter new price: 249.99  
+Enter new Quantity: 5  
+```
+Updated successfully...
+- ### 4. Deleting a Product
+```http
+Enter book code: P001  
+```
+Product with code 'P001' deleted successfully.
+
+
+
 ## 📜 Notes
 - Ensure the Oracle Database server is running before starting the application.
 - Update the connection URL, username, and password as per your - database configuration.

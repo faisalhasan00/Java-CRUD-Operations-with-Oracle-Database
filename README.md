@@ -14,7 +14,7 @@ Java Development Kit (JDK)
 Oracle Database installed and running
 Oracle JDBC Driver (ojdbc6.jar or ojdbc8.jar)
 
-Database Setup
+📂 Database Setup
 Step 1: Create the Product Table
 Run the following SQL script in your Oracle Database to create the PRODUCT table:
 sql

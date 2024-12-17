@@ -1,6 +1,7 @@
-  # Java-CRUD-Operations-with-Oracle-Database
-This project demonstrates a CRUD (Create, Read, Update, Delete) operation using Java with an Oracle Database. The application allows users to manage product records in a database table through a console-based interface.
-<h2>Features</h2>
+ Java CRUD Operations with Oracle Database
+This project demonstrates CRUD (Create, Read, Update, Delete) operations using Java with an Oracle Database. The application allows users to manage product records in a database table through a console-based interface.
+
+🚀 Features
 Add Product: Insert a new product into the database.
 View Products: Display all products or a specific product by its code.
 Update Product: Modify the price and quantity of an existing product.

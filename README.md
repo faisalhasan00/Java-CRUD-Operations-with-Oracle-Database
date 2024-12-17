@@ -52,14 +52,7 @@ String pswd = "your database password";            // Oracle password
 
 #### 3. Follow the Console Menu:
 - Use the menu options to perform CRUD operations:
-
-```http
-==== Choose ====
-1 ADD
-2 DISPLAY
-3 UPDATE
-4 DELETE
-Enter your choice:
+your choice:
 ```
 ## OUTPUT
 ```http
